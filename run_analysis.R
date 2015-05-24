@@ -1,4 +1,5 @@
 library(plyr) # for function join
+library(dplyr)
         
 # Read training and test sets          
 TrainSet <- read.table("./GetdataProject/UCI HAR Dataset/train/X_train.txt", header = FALSE, sep = "")
