@@ -1,4 +1,4 @@
-## GetDataProject2
+// GetDataProject2
 Repository for Getting and Cleaning Data project
 ## Script run_analysis.R
 library(plyr) # for function join
