@@ -1,7 +1,8 @@
-// GetDataProject2
+GetDataProject2
 Repository for Getting and Cleaning Data project
-## Script run_analysis.R
-library(plyr) # for function join
+
+Script run_analysis.R
+library(plyr) for function join
         
 ## Read training and test sets          
 TrainSet <- read.table("./GetdataProject/UCI HAR Dataset/train/X_train.txt", header = FALSE, sep = "")
